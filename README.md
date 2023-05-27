@@ -23,7 +23,7 @@ histolab==0.5.1
 
 1. clone benchmark from github
 ```angular2html
-$git clone
+$git clone https://github.com/yangfangs/Benchmark_WSI_TCGA.git
 
 ```
 2. Get abs path
@@ -37,6 +37,7 @@ $cd Benchmark_WSI_TCGA
 
 $pwd
 
+/home/bio1/workdata/Benchmark_WSI/Benchmark/manifest_small
 ```
 3. input the `manifest_samll` abs path.
 
